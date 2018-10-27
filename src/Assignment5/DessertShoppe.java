@@ -8,5 +8,5 @@ public class DessertShoppe {
     public static double cents2dollars(int cents){
         return cents/100.00;
     }
-    public static String s1 = ("%-25s  %5.2f %n");
+    public static String s1 = ("%-25s   %5.2f %n");
 }
